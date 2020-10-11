@@ -31,5 +31,12 @@ export default [
         avatrUrl:
         'https://pixabay.com/pt/vectors/dazed-emoticon-smiley-smilies-149093/'
     },
+    {
+        id: 5,
+        name: 'chicleteiro',
+        email: 'morango@hotmail.com',
+        avatrUrl:
+        'https://pixabay.com/pt/vectors/dazed-emoticon-smiley-smilies-149093/'
+    },
 
 ];
